@@ -1,0 +1,19 @@
+# Large files and datasets
+archive.zip
+lfw_funneled/
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Gradio cache
+.gradio/
+
+# IDE settings
+.vscode/
+.idea/
