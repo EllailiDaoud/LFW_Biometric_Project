@@ -1,0 +1,22 @@
+# Core ML & Data
+torch==2.9.1
+torchvision==0.24.1
+numpy==2.2.6
+pandas==2.3.3
+scikit-learn==1.8.0
+scipy==1.16.3
+matplotlib==3.10.8
+
+# Face Recognition & Biometrics
+facenet-pytorch==2.6.0
+reedsolo==1.7.0
+opencv-python==4.12.0.88
+pillow==12.0.0
+
+# UI & Utilities
+gradio==6.2.0
+tqdm==4.67.1
+
+# Notebook Support
+ipykernel==7.1.0
+jupyter==1.2.0  # approximate, or leave to user to install jupyter
